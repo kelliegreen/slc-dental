@@ -1,0 +1,107 @@
+html body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	background-color: #004394;
+}
+
+header {
+	height: 30px;
+	width: 100%;
+	line-height: 30px;
+	text-align: center;
+	background-color: #00397D;
+	color: white;
+	border-bottom: 1px solid white;
+}
+
+	.infocontainer {
+	
+	}
+	
+	.address {
+		font-size: 12px;
+		float: right;
+		padding-right: 40px;
+		
+		
+	}
+	
+	.number {
+		font-size: 12px;
+		padding-right: 40px;
+		float: right;
+	}
+	
+	.connect {
+		float: right;
+		padding-right: 50px;
+		margin-top: 3px;
+	}
+		
+		.fa {
+			margin-left: 10px;
+		}
+
+.main-content {
+	height: 100%;
+	width: 97%;
+	border: 1px solid red;
+	margin: 0 auto;
+	background-color: white;
+	margin-top: 25px;
+	padding-bottom: 30px;
+}
+	
+	.dentalcenter-logo {
+		width: 95%;
+		height: 100%;
+		display: inline-block;
+		overflow: auto;
+		margin: 20px 5px 0px 20px;
+		
+	}
+	
+		.blue-menu {
+			width: 40px;
+			height: 30px;
+			background-color: #00397D;
+			border: 1px solid #002959;
+			border-radius: 5px;
+			float: right;
+			margin-top: -63px;
+		}
+		
+		.white-lines {
+			width: 30px;
+			height: 3px;
+			background-color: white;
+			margin: 5px auto;
+			border-radius: 1px;
+			
+			
+		}
+		
+	.sliding-pictures {
+		width: 875px;
+		height: auto;
+		border: 1px solid red;
+		margin: 35px auto;
+	}	
+	
+	.container-pics {
+		width: 80%;
+		height: 100%;
+		border: 1px solid pink;
+		margin: auto;
+	}
+
+footer {
+	height: 20px;
+	width: 100%;
+	border: 1px solid green;
+	background-color: #004394;
+}
